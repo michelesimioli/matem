@@ -10,6 +10,11 @@ func Triplo(a int) int {
 	return 3 * a
 }
 
+// Quadruplo ritorna il triplo di un intero
+func Quadruplo(a int) int {
+	return 4 * a
+}
+
 // Massimo : il numero massimo trattato
 const Massimo int = 100
 
